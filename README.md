@@ -3,15 +3,20 @@
 ## back-end:
 api
 https://cduessel-bk.herokuapp.com/
+
 upside-down:
 https://cduessel-bd.herokuapp.com/
+
+back-end originally submitted at https://github.com/tryber/sd-05-stranger-things-backend
 
 ## front-end:
 development-environment:
 https://cduessel-ft.herokuapp.com/
 
 production-environment:
-https://cduessel-pd.herokuapp.com/
+https://cduessel-pd.herokuapp.com
+
+front-end originally submitted at https://github.com/tryber/sd-05-stranger-things-frontend
 
 ## instructions:
 Boas vindas ao repositório do projeto Stranger Things!
