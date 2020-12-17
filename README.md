@@ -1,19 +1,19 @@
-## heroku-deploy-challenges
+#heroku-deploy-challenges
 
-# back-end:
+## back-end:
 api
 https://cduessel-bk.herokuapp.com/
 upside-down:
 https://cduessel-bd.herokuapp.com/
 
-# front-end:
+## front-end:
 development-environment:
 https://cduessel-ft.herokuapp.com/
 
 production-environment:
 https://cduessel-pd.herokuapp.com/
 
-### instructions:
+## instructions:
 Boas vindas ao repositório do projeto Stranger Things!
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por Slack! #vqv rocket
 
